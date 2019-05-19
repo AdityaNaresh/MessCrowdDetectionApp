@@ -26,5 +26,7 @@ Then open in Android Studio.
 <img src="https://user-images.githubusercontent.com/31288037/57393270-630e3800-71e0-11e9-8470-6cad0c835967.jpeg" width="340" height="567">
 <img src="https://user-images.githubusercontent.com/31288037/57393690-3eff2680-71e1-11e9-8263-3cb6987dfa6e.jpeg" width="340" height="567">
 
-
+## My Teammates (Group Project) :
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Rajat Khanna](https://github.com/rajatkhanna1999)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Manas Ghai
 
