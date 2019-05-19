@@ -13,7 +13,7 @@ A simple app for accessing the crowd status in mess,analyzed the video to get th
 ### Install 
 
 ```sh
-$ git clone https://github.com/rajatkhanna1999/MessCrowdDetectionApp.git
+$ git clone https://github.com/AdityaNaresh/MessCrowdDetectionApp.git
 ```
 Then open in Android Studio.
 #### Screenshots
